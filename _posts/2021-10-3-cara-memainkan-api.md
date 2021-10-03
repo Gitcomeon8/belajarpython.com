@@ -21,4 +21,4 @@ semisal kita ingin memparsing data api dnslookup.
 
 Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.<br>
 Jika ada kesalahan kata mohon maaf wassalamualaikum wr.wb<br>
-*- penulis*[agung](https://github.com/gitcomeon8)
+*- penulis* [agung](https://github.com/gitcomeon8)
