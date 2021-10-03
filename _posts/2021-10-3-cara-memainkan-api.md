@@ -11,7 +11,7 @@ Ke hadiran saya ini ingin mengeshare cara memparsing data api...
 ## step
 Melakukan install 'requests' terlebih dahulu di terminal anda.
 > __$__ pip install requests<br>
-Setelah sudah melakukan insta requests, mari kita mainkan apinya hehe,
+Setelah sudah melakukan install requests, mari kita mainkan apinya hehe,
 semisal kita ingin memparsing data api dnslookup.<br>
 > import requests<br>
 > Url = 'https://api.hackertarget.com/dnslookup/?q={www.site.com}'<br>
