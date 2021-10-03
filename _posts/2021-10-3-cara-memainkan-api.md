@@ -5,7 +5,7 @@ date: 2021-10-03
 categories: artikel
 ---
 ---
-**Terimakasih untuk belajarpython.com untuk bisa berbagi ilmu untuk seluruh insan yang mau belajar bahasa python ini,
+**_Terimakasih untuk belajarpython.com untuk bisa berbagi ilmu untuk seluruh insan yang mau belajar bahasa python ini,
 Ke hadiran saya ini ingin mengeshare cara memparsing data api...**
 ## step
 **Melakukan install 'requests' terlebih dahulu di terminal anda.**
@@ -18,4 +18,4 @@ semisal kita ingin memparsing data api dnslookup.
 > for x in req:<br>
 >    print (x)<br>
 
-**Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.
+**_Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.**
