@@ -5,7 +5,7 @@ date: 2021-10-03
 categories: artikel
 ---
 ---
-Assalamualaikum wr.wb
+Assalamualaikum wr.wb<br>
 Terimakasih untuk belajarpython.com untuk bisa berbagi ilmu untuk seluruh insan yang mau belajar bahasa python ini,
 Ke hadiran saya ini ingin mengeshare cara memparsing data api...
 ## step
@@ -19,5 +19,5 @@ semisal kita ingin memparsing data api dnslookup.
 > for x in req:<br>
 >    print (x)<br>
 
-Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.
+Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.<br>
 Jika ada kesalahan kata mohon maaf wassalamualaikum wr.wb
