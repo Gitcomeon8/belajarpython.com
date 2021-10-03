@@ -20,5 +20,5 @@ semisal kita ingin memparsing data api dnslookup.
 >    print (x)<br>
 
 Gimana mudah kan?, sekian dan terimakasih semoga admin di limpahkan rezekinya.<br>
-Jika ada kesalahan kata mohon maaf wassalamualaikum wr.wb
+Jika ada kesalahan kata mohon maaf wassalamualaikum wr.wb<br>
 *- penulis*[agung](https://github.com/gitcomeon8)
